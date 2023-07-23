@@ -9,16 +9,6 @@ $url = "https://api.threadstap.com/?url=$shut";
         $final = curl_exec($ch); 
     }
 
-//define('UPLOAD_DIR', 'temp/');
-//$data    = file_get_contents($final);
-//$file    = UPLOAD_DIR .'[BhawaniGarg-SlideShare]-'. uniqid() . '.pdf';
-//$success = file_put_contents($file, $final);
-//$newfile = "https://bhawanigarg.com/$file";
-
-//$gen     = "$newfile";
-//$gen     = str_replace("'", '"', $gen);
-//$api_url = "https://redirect.getpaidstock.com/submit.php?url=$newfile";
-//$resultx = file_get_contents($newfile);
 ?>
 
 <!doctype html>
@@ -41,35 +31,7 @@ $url = "https://api.threadstap.com/?url=$shut";
 <script type="text/javascript" src='https://platform-api.sharethis.com/js/sharethis.js#property=5d71f0ecab6f1000123c8034&product=inline-share-buttons' async='async'></script>
 
     <link href="https://cdn.bhawanigarg.com/styles.css" rel="stylesheet">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-188322779-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-188322779-1');
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Person",
-  "name": "Bhawani Garg",
-  "url": "https://bhawanigarg.com",
-  "image": "https://bhawanigarg.com/logo.png",
-  "sameAs": [
-    "https://www.facebook.com/TheBhawaniGarg",
-    "https://twitter.com/iAmBhawaniGarg",
-    "https://www.instagram.com/thebhawanigarg/",
-    "https://bhawanigarg.com/"
-  ],
-  "jobTitle": "Front-end & Back-end developer",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Bhawani Garg"
-  }  
-}
-</script>
 </head>
 
 <body>
