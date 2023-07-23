@@ -23,6 +23,8 @@ $url = "https://api.threadstap.com/?url=$shut";
 ?>
 ```
 
-### Direct API url : https://api.threadstap.com/?url= (YOUR-THREADS-VIDEO-PHOT-URL-HERE)
+### Direct API url : https://api.threadstap.com/?url= (YOUR-THREADS-VIDEO-PHOTO-URL-HERE)
 
 ### API DOCUMENT: https://threadstap.com/api.php
+
+### Mail: hi@bhawanigarg.com (I might be NOT active here)
