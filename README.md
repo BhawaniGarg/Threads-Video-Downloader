@@ -27,4 +27,4 @@ $url = "https://api.threadstap.com/?url=$shut";
 
 ### API DOCUMENT: https://threadstap.com/api.php
 
-### Mail: hi@bhawanigarg.com (I might be NOT active here)
+### Mail: hi@bhawanigarg.com (For Any Paid Projects)
