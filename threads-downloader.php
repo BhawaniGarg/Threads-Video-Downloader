@@ -77,7 +77,7 @@ $url = "https://api.threadstap.com/?url=$shut";
                         <div class="text-center text-md-start">
                             <br>
                             <center>
-                            <h1 class="display-2 fw-bold">Slideshare PDF Downloader</h1></center>
+                            <h1 class="display-2 fw-bold">Threads Downloader</h1></center>
                         </div>
                         <p class="mt-5 lh-lg">
                             <form method="post" action="threads-downloader.php#dl" target="_top">
